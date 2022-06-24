@@ -1,8 +1,4 @@
-p {
-    color: red;
-    background-color: aqua;
-}
-.practice {
-    color:azure;
-    background-color: black;
+h1 {
+    text-align: center;
+    text-emphasis: 50px;
 }
